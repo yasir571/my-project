@@ -1,0 +1,28 @@
+#h1{
+    text-align: center;
+}
+#pic1{
+    width: 500px;
+    height: 200px;
+    border: black solid;
+    position: relative;
+}
+.text{
+    background-color: rgba(0, 0, 0, 0 , 6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50%;
+    color: white;
+    padding: 30px;
+    box-sizing: border-box;
+}
+#pic1 :hover .text{
+   left: 0;
+}
+#pic2{
+    margin-bottom: ;
+    margin-left: 530px;
+    height: 320px;
+    width: 800px;
+}
